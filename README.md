@@ -74,13 +74,5 @@ When connected to the Netherlands server, my **IPv4 address changed** from my or
 This showed that the VPN successfully masked my real identity and encrypted my data.  
 Browsing was mostly stable with minor speed changes at the beginning.
 
----
 
-## Suggested Screenshots
-- ProtonVPN app showing “Connected / Protected” status  
-- whatismyipaddress.com showing Netherlands IP  
-- Optional: Disconnected state showing the original IP
 
----
-
-## Folder Example
